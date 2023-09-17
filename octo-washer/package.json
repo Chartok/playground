@@ -1,0 +1,23 @@
+{
+  "name": "octo-washer",
+  "version": "1.0.0",
+  "description": "playground",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chartok/octo-washer.git"
+  },
+  "author": ".mab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chartok/octo-washer/issues"
+  },
+  "homepage": "https://github.com/Chartok/octo-washer#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsdom": "^22.1.0"
+  }
+}
